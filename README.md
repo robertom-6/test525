@@ -1,5 +1,5 @@
 # EPTS: Elastic Post-Training Sparsity for Efficient Large Language Model Compression
-
+[![DOI](https://zenodo.org/badge/1248753960.svg)](https://doi.org/10.5281/zenodo.20371703)
 ## Overview
 
 ![Overview of EPTS](./pic/overview.png)
